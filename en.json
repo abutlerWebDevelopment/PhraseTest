@@ -1,6 +1,6 @@
 {
   "ABAC": "Anti-Bribery & Anti-Corruption",
-  "ASSESSMENT_RESULT": "Overall Assessment Result",
+  "ASSESSMENT_RESULT": "Overall Assessment Result - This is an edited text in github!",
   "Account.TooManyRequests.AccountLimit.Description": "We recognized untypical user behavior. Due to security reasons your account is blocked for the next {duration}.",
   "Account.TooManyRequests.AccountLimit.Title": "Security Alert – Account Blocked",
   "Account.TooManyRequests.Close": "Close",
