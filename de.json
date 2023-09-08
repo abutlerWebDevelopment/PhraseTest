@@ -1,0 +1,40 @@
+{
+  "ABAC": "Anti-Bestechung & Anti-Korruption",
+  "Account": {
+    "TooManyRequests": {
+      "AccountLimit": {
+        "Description": "Wir haben ein untypisches Nutzerverhalten festgestellt. Aus Sicherheitsgründen ist Ihr Konto für die nächste {Dauer} gesperrt.",
+        "Title": "Sicherheitswarnung – Konto gesperrt"
+      },
+      "Close": "Schließen",
+      "Description": "Wir haben ein untypisches Nutzerverhalten festgestellt. Aus Sicherheitsgründen wird Ihre IP-Adresse für die nächsten <span>60 Minuten</span> gesperrt.",
+      "Title": "Sicherheitswarnung – IP-Limit"
+    }
+  },
+  "Action": {
+    "AdditionalAttachment": null,
+    "Comments": {
+      "Title": "Zusammenarbeit von Teams"
+    },
+    "CustomerName": "Kunden name",
+    "Description": null,
+    "DueDate": "Fälligkeitsdasdalfk",
+    "EngageSupplier": "Lieferanten einbinden",
+    "Filters": {
+      "CustomerPlaceholder": "Kunde...",
+      "Overdue": "Überfällig",
+      "SupplierPlaceholder": "Lieferant...",
+      "TitlePlaceholder": "Suche nach einer Aktion"
+    },
+    "InternalUsers": "Interne Benutzer"
+  },
+  "ASSESSMENT_RESULT": null,
+  "Key": {
+    "Created": {
+      "In": {
+        "Tool": "test"
+      }
+    }
+  },
+  "NewKey": "new key"
+}
