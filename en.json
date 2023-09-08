@@ -1,0 +1,20 @@
+{
+  "ABAC": "Anti-Bribery & Anti-Corruption",
+  "ASSESSMENT_RESULT": "Overall Assessment Result",
+  "Account.TooManyRequests.AccountLimit.Description": "We recognized untypical user behavior. Due to security reasons your account is blocked for the next {duration}.",
+  "Account.TooManyRequests.AccountLimit.Title": "Security Alert – Account Blocked",
+  "Account.TooManyRequests.Close": "Close",
+  "Account.TooManyRequests.Description": "We recognized untypical user behavior. Due to security reasons your IP address is blocked for the next <span>60 minutes</span>.",
+  "Account.TooManyRequests.Title": "Security Alert – IP limit",
+  "Action.AdditionalAttachment": "Additional Document",
+  "Action.Comments.Title": "Collaboration of teams",
+  "Action.CustomerName": "Customer Name",
+  "Action.Description": "Description",
+  "Action.DueDate": "Due Date",
+  "Action.EngageSupplier": "Engage Supplier",
+  "Action.Filters.CustomerPlaceholder": "Customer...",
+  "Action.Filters.Overdue": "Overdue",
+  "Action.Filters.SupplierPlaceholder": "Supplier...",
+  "Action.Filters.TitlePlaceholder": "Search for an action",
+  "Action.InternalUsers": "Internal Users"
+}
