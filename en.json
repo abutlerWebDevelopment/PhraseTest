@@ -16,5 +16,6 @@
   "Action.Filters.Overdue": "Overdue",
   "Action.Filters.SupplierPlaceholder": "Supplier...",
   "Action.Filters.TitlePlaceholder": "Search for an action",
-  "Action.InternalUsers": "Internal Users"
+  "Action.InternalUsers": "Internal Users",
+  "NewKey": "New Key"
 }
